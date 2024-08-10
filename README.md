@@ -20,12 +20,12 @@ You can install the `phonenumbers` library using pip:
 ```bash
 pip install phonenumbers
 
-## Usage
-- **Run the Script**: Execute the script in a Python environment.
-- **Input Phone Numbers**: Enter phone numbers in the format +<country_code><number>. For example: +9178699859850.
-- **Finish Input**: Type done to stop entering phone numbers and see the results.
+Usage
+Run the Script: Execute the script in a Python environment.
+Input Phone Numbers: Enter phone numbers in the format +<country_code><number>. For example: +9178699859850.
+Finish Input: Type done to stop entering phone numbers and see the results.
 
-## Example 
+Example 
 Enter a phone number like this[+9178699859850] (or type 'done' to finish): +14155552671
 Enter a phone number like this[+9178699859850] (or type 'done' to finish): +442083661177
 Enter a phone number like this[+9178699859850] (or type 'done' to finish): done
@@ -42,5 +42,5 @@ Location: United Kingdom
 Carrier: BT Group
 Timezone: ('Europe/London',)
 
-## Contributing
+Contributing
 Feel free to submit issues, improvements, or suggestions. Pull requests are welcome!
